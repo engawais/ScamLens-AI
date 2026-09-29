@@ -1,0 +1,201 @@
+case_id,message,phone_number,url,category,risk_level,created_at
+CASE_0001,Claim your Payment award immediately. Contact +923008367376 or visit http://verify-claim-1.xyz/login.,+923008367376,http://verify-claim-1.xyz/login,Payment,CRITICAL,2026-09-03
+CASE_0002,Claim your Payment award immediately. Contact +923003066894 or visit http://verify-claim-2.xyz/login.,+923003066894,http://verify-claim-2.xyz/login,Payment,MEDIUM,2026-09-17
+CASE_0003,Claim your Investment award immediately. Contact +923004100561 or visit http://verify-claim-3.xyz/login.,+923004100561,http://verify-claim-3.xyz/login,Investment,CRITICAL,2026-09-26
+CASE_0004,Claim your Fake Job award immediately. Contact +923003865137 or visit http://verify-claim-4.xyz/login.,+923003865137,http://verify-claim-4.xyz/login,Fake Job,CRITICAL,2026-09-14
+CASE_0005,Claim your Payment award immediately. Contact +923004361332 or visit http://verify-claim-5.xyz/login.,+923004361332,http://verify-claim-5.xyz/login,Payment,HIGH,2026-09-15
+CASE_0006,Claim your Prize award immediately. Contact +923005856148 or visit http://verify-claim-6.xyz/login.,+923005856148,http://verify-claim-6.xyz/login,Prize,MEDIUM,2026-09-09
+CASE_0007,Claim your Payment award immediately. Contact +923009270565 or visit http://verify-claim-7.xyz/login.,+923009270565,http://verify-claim-7.xyz/login,Payment,CRITICAL,2026-09-19
+CASE_0008,Claim your Prize award immediately. Contact +923007563066 or visit http://verify-claim-8.xyz/login.,+923007563066,http://verify-claim-8.xyz/login,Prize,CRITICAL,2026-09-18
+CASE_0009,Claim your Investment award immediately. Contact +923008784019 or visit http://verify-claim-9.xyz/login.,+923008784019,http://verify-claim-9.xyz/login,Investment,HIGH,2026-09-17
+CASE_0010,Claim your Fake Job award immediately. Contact +923001469269 or visit http://verify-claim-10.xyz/login.,+923001469269,http://verify-claim-10.xyz/login,Fake Job,HIGH,2026-09-21
+CASE_0011,Claim your Investment award immediately. Contact +923007533541 or visit http://verify-claim-11.xyz/login.,+923007533541,http://verify-claim-11.xyz/login,Investment,CRITICAL,2026-09-30
+CASE_0012,Claim your Prize award immediately. Contact +923001571826 or visit http://verify-claim-12.xyz/login.,+923001571826,http://verify-claim-12.xyz/login,Prize,CRITICAL,2026-09-10
+CASE_0013,Claim your Payment award immediately. Contact +923008457126 or visit http://verify-claim-13.xyz/login.,+923008457126,http://verify-claim-13.xyz/login,Payment,HIGH,2026-09-29
+CASE_0014,Claim your Fake Job award immediately. Contact +923008850178 or visit http://verify-claim-14.xyz/login.,+923008850178,http://verify-claim-14.xyz/login,Fake Job,CRITICAL,2026-09-02
+CASE_0015,Claim your Banking award immediately. Contact +923005645678 or visit http://verify-claim-15.xyz/login.,+923005645678,http://verify-claim-15.xyz/login,Banking,MEDIUM,2026-09-30
+CASE_0016,Claim your Prize award immediately. Contact +923009399318 or visit http://verify-claim-16.xyz/login.,+923009399318,http://verify-claim-16.xyz/login,Prize,CRITICAL,2026-09-03
+CASE_0017,Claim your Fake Job award immediately. Contact +923006852464 or visit http://verify-claim-17.xyz/login.,+923006852464,http://verify-claim-17.xyz/login,Fake Job,CRITICAL,2026-09-02
+CASE_0018,Claim your Payment award immediately. Contact +923007553588 or visit http://verify-claim-18.xyz/login.,+923007553588,http://verify-claim-18.xyz/login,Payment,MEDIUM,2026-09-14
+CASE_0019,Claim your Fake Job award immediately. Contact +923003540116 or visit http://verify-claim-19.xyz/login.,+923003540116,http://verify-claim-19.xyz/login,Fake Job,CRITICAL,2026-09-19
+CASE_0020,Claim your Payment award immediately. Contact +923006692359 or visit http://verify-claim-20.xyz/login.,+923006692359,http://verify-claim-20.xyz/login,Payment,CRITICAL,2026-09-16
+CASE_0021,Claim your Fake Job award immediately. Contact +923005669772 or visit http://verify-claim-21.xyz/login.,+923005669772,http://verify-claim-21.xyz/login,Fake Job,CRITICAL,2026-09-05
+CASE_0022,Claim your Prize award immediately. Contact +923007609027 or visit http://verify-claim-22.xyz/login.,+923007609027,http://verify-claim-22.xyz/login,Prize,CRITICAL,2026-09-28
+CASE_0023,Claim your Banking award immediately. Contact +923007317003 or visit http://verify-claim-23.xyz/login.,+923007317003,http://verify-claim-23.xyz/login,Banking,HIGH,2026-08-31
+CASE_0024,Claim your Payment award immediately. Contact +923004026182 or visit http://verify-claim-24.xyz/login.,+923004026182,http://verify-claim-24.xyz/login,Payment,CRITICAL,2026-09-12
+CASE_0025,Claim your Payment award immediately. Contact +923009815318 or visit http://verify-claim-25.xyz/login.,+923009815318,http://verify-claim-25.xyz/login,Payment,MEDIUM,2026-09-22
+CASE_0026,Claim your Prize award immediately. Contact +923006840068 or visit http://verify-claim-26.xyz/login.,+923006840068,http://verify-claim-26.xyz/login,Prize,CRITICAL,2026-09-12
+CASE_0027,Claim your Banking award immediately. Contact +923002133636 or visit http://verify-claim-27.xyz/login.,+923002133636,http://verify-claim-27.xyz/login,Banking,MEDIUM,2026-09-29
+CASE_0028,Claim your Fake Job award immediately. Contact +923004887353 or visit http://verify-claim-28.xyz/login.,+923004887353,http://verify-claim-28.xyz/login,Fake Job,CRITICAL,2026-09-27
+CASE_0029,Claim your Investment award immediately. Contact +923009379110 or visit http://verify-claim-29.xyz/login.,+923009379110,http://verify-claim-29.xyz/login,Investment,CRITICAL,2026-09-01
+CASE_0030,Claim your Banking award immediately. Contact +923006430103 or visit http://verify-claim-30.xyz/login.,+923006430103,http://verify-claim-30.xyz/login,Banking,MEDIUM,2026-09-06
+CASE_0031,Claim your Fake Job award immediately. Contact +923002768852 or visit http://verify-claim-31.xyz/login.,+923002768852,http://verify-claim-31.xyz/login,Fake Job,MEDIUM,2026-09-02
+CASE_0032,Claim your Banking award immediately. Contact +923008047372 or visit http://verify-claim-32.xyz/login.,+923008047372,http://verify-claim-32.xyz/login,Banking,MEDIUM,2026-09-01
+CASE_0033,Claim your Investment award immediately. Contact +923005202421 or visit http://verify-claim-33.xyz/login.,+923005202421,http://verify-claim-33.xyz/login,Investment,MEDIUM,2026-09-27
+CASE_0034,Claim your Investment award immediately. Contact +923008407618 or visit http://verify-claim-34.xyz/login.,+923008407618,http://verify-claim-34.xyz/login,Investment,HIGH,2026-09-06
+CASE_0035,Claim your Payment award immediately. Contact +923001494247 or visit http://verify-claim-35.xyz/login.,+923001494247,http://verify-claim-35.xyz/login,Payment,MEDIUM,2026-09-01
+CASE_0036,Claim your Prize award immediately. Contact +923002806251 or visit http://verify-claim-36.xyz/login.,+923002806251,http://verify-claim-36.xyz/login,Prize,HIGH,2026-09-08
+CASE_0037,Claim your Banking award immediately. Contact +923003235004 or visit http://verify-claim-37.xyz/login.,+923003235004,http://verify-claim-37.xyz/login,Banking,CRITICAL,2026-09-10
+CASE_0038,Claim your Payment award immediately. Contact +923004350987 or visit http://verify-claim-38.xyz/login.,+923004350987,http://verify-claim-38.xyz/login,Payment,HIGH,2026-09-24
+CASE_0039,Claim your Banking award immediately. Contact +923008340281 or visit http://verify-claim-39.xyz/login.,+923008340281,http://verify-claim-39.xyz/login,Banking,HIGH,2026-09-09
+CASE_0040,Claim your Fake Job award immediately. Contact +923004375454 or visit http://verify-claim-40.xyz/login.,+923004375454,http://verify-claim-40.xyz/login,Fake Job,MEDIUM,2026-09-07
+CASE_0041,Claim your Banking award immediately. Contact +923009867252 or visit http://verify-claim-41.xyz/login.,+923009867252,http://verify-claim-41.xyz/login,Banking,MEDIUM,2026-09-05
+CASE_0042,Claim your Investment award immediately. Contact +923001406730 or visit http://verify-claim-42.xyz/login.,+923001406730,http://verify-claim-42.xyz/login,Investment,CRITICAL,2026-09-10
+CASE_0043,Claim your Investment award immediately. Contact +923004414828 or visit http://verify-claim-43.xyz/login.,+923004414828,http://verify-claim-43.xyz/login,Investment,MEDIUM,2026-09-29
+CASE_0044,Claim your Investment award immediately. Contact +923007032432 or visit http://verify-claim-44.xyz/login.,+923007032432,http://verify-claim-44.xyz/login,Investment,HIGH,2026-09-06
+CASE_0045,Claim your Payment award immediately. Contact +923002207374 or visit http://verify-claim-45.xyz/login.,+923002207374,http://verify-claim-45.xyz/login,Payment,MEDIUM,2026-09-20
+CASE_0046,Claim your Payment award immediately. Contact +923009324443 or visit http://verify-claim-46.xyz/login.,+923009324443,http://verify-claim-46.xyz/login,Payment,MEDIUM,2026-09-24
+CASE_0047,Claim your Payment award immediately. Contact +923008947918 or visit http://verify-claim-47.xyz/login.,+923008947918,http://verify-claim-47.xyz/login,Payment,HIGH,2026-09-14
+CASE_0048,Claim your Prize award immediately. Contact +923003313134 or visit http://verify-claim-48.xyz/login.,+923003313134,http://verify-claim-48.xyz/login,Prize,MEDIUM,2026-09-05
+CASE_0049,Claim your Banking award immediately. Contact +923008172456 or visit http://verify-claim-49.xyz/login.,+923008172456,http://verify-claim-49.xyz/login,Banking,HIGH,2026-09-10
+CASE_0050,Claim your Investment award immediately. Contact +923002311035 or visit http://verify-claim-50.xyz/login.,+923002311035,http://verify-claim-50.xyz/login,Investment,CRITICAL,2026-09-26
+CASE_0051,Claim your Prize award immediately. Contact +923002693039 or visit http://verify-claim-51.xyz/login.,+923002693039,http://verify-claim-51.xyz/login,Prize,HIGH,2026-09-27
+CASE_0052,Claim your Fake Job award immediately. Contact +923001863674 or visit http://verify-claim-52.xyz/login.,+923001863674,http://verify-claim-52.xyz/login,Fake Job,CRITICAL,2026-09-11
+CASE_0053,Claim your Prize award immediately. Contact +923001378200 or visit http://verify-claim-53.xyz/login.,+923001378200,http://verify-claim-53.xyz/login,Prize,HIGH,2026-09-23
+CASE_0054,Claim your Prize award immediately. Contact +923007550268 or visit http://verify-claim-54.xyz/login.,+923007550268,http://verify-claim-54.xyz/login,Prize,HIGH,2026-09-08
+CASE_0055,Claim your Investment award immediately. Contact +923003648501 or visit http://verify-claim-55.xyz/login.,+923003648501,http://verify-claim-55.xyz/login,Investment,HIGH,2026-08-31
+CASE_0056,Claim your Investment award immediately. Contact +923009966143 or visit http://verify-claim-56.xyz/login.,+923009966143,http://verify-claim-56.xyz/login,Investment,MEDIUM,2026-09-12
+CASE_0057,Claim your Payment award immediately. Contact +923009389396 or visit http://verify-claim-57.xyz/login.,+923009389396,http://verify-claim-57.xyz/login,Payment,HIGH,2026-09-21
+CASE_0058,Claim your Payment award immediately. Contact +923001950399 or visit http://verify-claim-58.xyz/login.,+923001950399,http://verify-claim-58.xyz/login,Payment,CRITICAL,2026-09-13
+CASE_0059,Claim your Investment award immediately. Contact +923008901711 or visit http://verify-claim-59.xyz/login.,+923008901711,http://verify-claim-59.xyz/login,Investment,HIGH,2026-09-01
+CASE_0060,Claim your Investment award immediately. Contact +923001541480 or visit http://verify-claim-60.xyz/login.,+923001541480,http://verify-claim-60.xyz/login,Investment,HIGH,2026-09-20
+CASE_0061,Claim your Prize award immediately. Contact +923004364020 or visit http://verify-claim-61.xyz/login.,+923004364020,http://verify-claim-61.xyz/login,Prize,MEDIUM,2026-09-20
+CASE_0062,Claim your Fake Job award immediately. Contact +923004426466 or visit http://verify-claim-62.xyz/login.,+923004426466,http://verify-claim-62.xyz/login,Fake Job,CRITICAL,2026-09-13
+CASE_0063,Claim your Prize award immediately. Contact +923002045698 or visit http://verify-claim-63.xyz/login.,+923002045698,http://verify-claim-63.xyz/login,Prize,HIGH,2026-09-23
+CASE_0064,Claim your Investment award immediately. Contact +923001593277 or visit http://verify-claim-64.xyz/login.,+923001593277,http://verify-claim-64.xyz/login,Investment,MEDIUM,2026-09-19
+CASE_0065,Claim your Banking award immediately. Contact +923002352134 or visit http://verify-claim-65.xyz/login.,+923002352134,http://verify-claim-65.xyz/login,Banking,CRITICAL,2026-09-02
+CASE_0066,Claim your Banking award immediately. Contact +923003172055 or visit http://verify-claim-66.xyz/login.,+923003172055,http://verify-claim-66.xyz/login,Banking,CRITICAL,2026-09-22
+CASE_0067,Claim your Investment award immediately. Contact +923002745857 or visit http://verify-claim-67.xyz/login.,+923002745857,http://verify-claim-67.xyz/login,Investment,HIGH,2026-09-29
+CASE_0068,Claim your Payment award immediately. Contact +923004778984 or visit http://verify-claim-68.xyz/login.,+923004778984,http://verify-claim-68.xyz/login,Payment,HIGH,2026-09-10
+CASE_0069,Claim your Banking award immediately. Contact +923009012674 or visit http://verify-claim-69.xyz/login.,+923009012674,http://verify-claim-69.xyz/login,Banking,MEDIUM,2026-09-21
+CASE_0070,Claim your Investment award immediately. Contact +923001928728 or visit http://verify-claim-70.xyz/login.,+923001928728,http://verify-claim-70.xyz/login,Investment,MEDIUM,2026-09-30
+CASE_0071,Claim your Payment award immediately. Contact +923007365080 or visit http://verify-claim-71.xyz/login.,+923007365080,http://verify-claim-71.xyz/login,Payment,CRITICAL,2026-09-09
+CASE_0072,Claim your Investment award immediately. Contact +923009089526 or visit http://verify-claim-72.xyz/login.,+923009089526,http://verify-claim-72.xyz/login,Investment,HIGH,2026-09-29
+CASE_0073,Claim your Banking award immediately. Contact +923003101134 or visit http://verify-claim-73.xyz/login.,+923003101134,http://verify-claim-73.xyz/login,Banking,CRITICAL,2026-09-17
+CASE_0074,Claim your Banking award immediately. Contact +923003311404 or visit http://verify-claim-74.xyz/login.,+923003311404,http://verify-claim-74.xyz/login,Banking,HIGH,2026-09-27
+CASE_0075,Claim your Investment award immediately. Contact +923007169127 or visit http://verify-claim-75.xyz/login.,+923007169127,http://verify-claim-75.xyz/login,Investment,MEDIUM,2026-09-19
+CASE_0076,Claim your Prize award immediately. Contact +923008323671 or visit http://verify-claim-76.xyz/login.,+923008323671,http://verify-claim-76.xyz/login,Prize,MEDIUM,2026-09-01
+CASE_0077,Claim your Fake Job award immediately. Contact +923004892874 or visit http://verify-claim-77.xyz/login.,+923004892874,http://verify-claim-77.xyz/login,Fake Job,CRITICAL,2026-09-28
+CASE_0078,Claim your Investment award immediately. Contact +923004810540 or visit http://verify-claim-78.xyz/login.,+923004810540,http://verify-claim-78.xyz/login,Investment,CRITICAL,2026-09-17
+CASE_0079,Claim your Payment award immediately. Contact +923001768056 or visit http://verify-claim-79.xyz/login.,+923001768056,http://verify-claim-79.xyz/login,Payment,MEDIUM,2026-09-05
+CASE_0080,Claim your Fake Job award immediately. Contact +923001954349 or visit http://verify-claim-80.xyz/login.,+923001954349,http://verify-claim-80.xyz/login,Fake Job,MEDIUM,2026-09-28
+CASE_0081,Claim your Fake Job award immediately. Contact +923008357746 or visit http://verify-claim-81.xyz/login.,+923008357746,http://verify-claim-81.xyz/login,Fake Job,HIGH,2026-09-25
+CASE_0082,Claim your Investment award immediately. Contact +923006270157 or visit http://verify-claim-82.xyz/login.,+923006270157,http://verify-claim-82.xyz/login,Investment,CRITICAL,2026-09-19
+CASE_0083,Claim your Fake Job award immediately. Contact +923005905871 or visit http://verify-claim-83.xyz/login.,+923005905871,http://verify-claim-83.xyz/login,Fake Job,CRITICAL,2026-09-26
+CASE_0084,Claim your Banking award immediately. Contact +923009031276 or visit http://verify-claim-84.xyz/login.,+923009031276,http://verify-claim-84.xyz/login,Banking,MEDIUM,2026-09-09
+CASE_0085,Claim your Investment award immediately. Contact +923002281408 or visit http://verify-claim-85.xyz/login.,+923002281408,http://verify-claim-85.xyz/login,Investment,CRITICAL,2026-09-22
+CASE_0086,Claim your Fake Job award immediately. Contact +923009303534 or visit http://verify-claim-86.xyz/login.,+923009303534,http://verify-claim-86.xyz/login,Fake Job,CRITICAL,2026-09-08
+CASE_0087,Claim your Prize award immediately. Contact +923004695807 or visit http://verify-claim-87.xyz/login.,+923004695807,http://verify-claim-87.xyz/login,Prize,CRITICAL,2026-09-16
+CASE_0088,Claim your Prize award immediately. Contact +923007156124 or visit http://verify-claim-88.xyz/login.,+923007156124,http://verify-claim-88.xyz/login,Prize,CRITICAL,2026-09-06
+CASE_0089,Claim your Prize award immediately. Contact +923005097093 or visit http://verify-claim-89.xyz/login.,+923005097093,http://verify-claim-89.xyz/login,Prize,HIGH,2026-09-14
+CASE_0090,Claim your Prize award immediately. Contact +923009446412 or visit http://verify-claim-90.xyz/login.,+923009446412,http://verify-claim-90.xyz/login,Prize,MEDIUM,2026-09-27
+CASE_0091,Claim your Prize award immediately. Contact +923007892648 or visit http://verify-claim-91.xyz/login.,+923007892648,http://verify-claim-91.xyz/login,Prize,CRITICAL,2026-09-08
+CASE_0092,Claim your Banking award immediately. Contact +923005693994 or visit http://verify-claim-92.xyz/login.,+923005693994,http://verify-claim-92.xyz/login,Banking,MEDIUM,2026-09-28
+CASE_0093,Claim your Fake Job award immediately. Contact +923009740844 or visit http://verify-claim-93.xyz/login.,+923009740844,http://verify-claim-93.xyz/login,Fake Job,HIGH,2026-09-23
+CASE_0094,Claim your Payment award immediately. Contact +923004536127 or visit http://verify-claim-94.xyz/login.,+923004536127,http://verify-claim-94.xyz/login,Payment,HIGH,2026-09-27
+CASE_0095,Claim your Fake Job award immediately. Contact +923001601759 or visit http://verify-claim-95.xyz/login.,+923001601759,http://verify-claim-95.xyz/login,Fake Job,CRITICAL,2026-09-23
+CASE_0096,Claim your Banking award immediately. Contact +923008612879 or visit http://verify-claim-96.xyz/login.,+923008612879,http://verify-claim-96.xyz/login,Banking,MEDIUM,2026-08-31
+CASE_0097,Claim your Investment award immediately. Contact +923009370278 or visit http://verify-claim-97.xyz/login.,+923009370278,http://verify-claim-97.xyz/login,Investment,MEDIUM,2026-09-04
+CASE_0098,Claim your Prize award immediately. Contact +923005663517 or visit http://verify-claim-98.xyz/login.,+923005663517,http://verify-claim-98.xyz/login,Prize,HIGH,2026-09-12
+CASE_0099,Claim your Prize award immediately. Contact +923002417562 or visit http://verify-claim-99.xyz/login.,+923002417562,http://verify-claim-99.xyz/login,Prize,HIGH,2026-09-29
+CASE_0100,Claim your Payment award immediately. Contact +923007441381 or visit http://verify-claim-100.xyz/login.,+923007441381,http://verify-claim-100.xyz/login,Payment,MEDIUM,2026-09-15
+CASE_0101,Claim your Banking award immediately. Contact +923007453578 or visit http://verify-claim-101.xyz/login.,+923007453578,http://verify-claim-101.xyz/login,Banking,MEDIUM,2026-09-16
+CASE_0102,Claim your Fake Job award immediately. Contact +923004451578 or visit http://verify-claim-102.xyz/login.,+923004451578,http://verify-claim-102.xyz/login,Fake Job,MEDIUM,2026-09-18
+CASE_0103,Claim your Banking award immediately. Contact +923009933732 or visit http://verify-claim-103.xyz/login.,+923009933732,http://verify-claim-103.xyz/login,Banking,CRITICAL,2026-09-29
+CASE_0104,Claim your Prize award immediately. Contact +923001525229 or visit http://verify-claim-104.xyz/login.,+923001525229,http://verify-claim-104.xyz/login,Prize,HIGH,2026-09-13
+CASE_0105,Claim your Investment award immediately. Contact +923006640806 or visit http://verify-claim-105.xyz/login.,+923006640806,http://verify-claim-105.xyz/login,Investment,HIGH,2026-09-01
+CASE_0106,Claim your Payment award immediately. Contact +923004633007 or visit http://verify-claim-106.xyz/login.,+923004633007,http://verify-claim-106.xyz/login,Payment,MEDIUM,2026-09-06
+CASE_0107,Claim your Prize award immediately. Contact +923008282586 or visit http://verify-claim-107.xyz/login.,+923008282586,http://verify-claim-107.xyz/login,Prize,HIGH,2026-09-03
+CASE_0108,Claim your Investment award immediately. Contact +923002832243 or visit http://verify-claim-108.xyz/login.,+923002832243,http://verify-claim-108.xyz/login,Investment,HIGH,2026-09-13
+CASE_0109,Claim your Prize award immediately. Contact +923009971807 or visit http://verify-claim-109.xyz/login.,+923009971807,http://verify-claim-109.xyz/login,Prize,HIGH,2026-09-16
+CASE_0110,Claim your Payment award immediately. Contact +923009705913 or visit http://verify-claim-110.xyz/login.,+923009705913,http://verify-claim-110.xyz/login,Payment,MEDIUM,2026-09-22
+CASE_0111,Claim your Banking award immediately. Contact +923008840537 or visit http://verify-claim-111.xyz/login.,+923008840537,http://verify-claim-111.xyz/login,Banking,MEDIUM,2026-09-07
+CASE_0112,Claim your Fake Job award immediately. Contact +923001254735 or visit http://verify-claim-112.xyz/login.,+923001254735,http://verify-claim-112.xyz/login,Fake Job,CRITICAL,2026-09-22
+CASE_0113,Claim your Prize award immediately. Contact +923002435070 or visit http://verify-claim-113.xyz/login.,+923002435070,http://verify-claim-113.xyz/login,Prize,CRITICAL,2026-09-23
+CASE_0114,Claim your Prize award immediately. Contact +923006662853 or visit http://verify-claim-114.xyz/login.,+923006662853,http://verify-claim-114.xyz/login,Prize,HIGH,2026-09-12
+CASE_0115,Claim your Investment award immediately. Contact +923005601485 or visit http://verify-claim-115.xyz/login.,+923005601485,http://verify-claim-115.xyz/login,Investment,HIGH,2026-09-19
+CASE_0116,Claim your Prize award immediately. Contact +923001207016 or visit http://verify-claim-116.xyz/login.,+923001207016,http://verify-claim-116.xyz/login,Prize,HIGH,2026-09-27
+CASE_0117,Claim your Payment award immediately. Contact +923006385308 or visit http://verify-claim-117.xyz/login.,+923006385308,http://verify-claim-117.xyz/login,Payment,HIGH,2026-09-04
+CASE_0118,Claim your Fake Job award immediately. Contact +923008445874 or visit http://verify-claim-118.xyz/login.,+923008445874,http://verify-claim-118.xyz/login,Fake Job,MEDIUM,2026-09-16
+CASE_0119,Claim your Banking award immediately. Contact +923001148825 or visit http://verify-claim-119.xyz/login.,+923001148825,http://verify-claim-119.xyz/login,Banking,MEDIUM,2026-09-16
+CASE_0120,Claim your Prize award immediately. Contact +923009056551 or visit http://verify-claim-120.xyz/login.,+923009056551,http://verify-claim-120.xyz/login,Prize,CRITICAL,2026-09-10
+CASE_0121,Claim your Fake Job award immediately. Contact +923007855353 or visit http://verify-claim-121.xyz/login.,+923007855353,http://verify-claim-121.xyz/login,Fake Job,CRITICAL,2026-09-29
+CASE_0122,Claim your Investment award immediately. Contact +923005637988 or visit http://verify-claim-122.xyz/login.,+923005637988,http://verify-claim-122.xyz/login,Investment,CRITICAL,2026-09-02
+CASE_0123,Claim your Payment award immediately. Contact +923006268490 or visit http://verify-claim-123.xyz/login.,+923006268490,http://verify-claim-123.xyz/login,Payment,MEDIUM,2026-08-31
+CASE_0124,Claim your Banking award immediately. Contact +923004016609 or visit http://verify-claim-124.xyz/login.,+923004016609,http://verify-claim-124.xyz/login,Banking,HIGH,2026-09-22
+CASE_0125,Claim your Prize award immediately. Contact +923009303529 or visit http://verify-claim-125.xyz/login.,+923009303529,http://verify-claim-125.xyz/login,Prize,MEDIUM,2026-09-26
+CASE_0126,Claim your Fake Job award immediately. Contact +923003464602 or visit http://verify-claim-126.xyz/login.,+923003464602,http://verify-claim-126.xyz/login,Fake Job,CRITICAL,2026-09-03
+CASE_0127,Claim your Investment award immediately. Contact +923004903596 or visit http://verify-claim-127.xyz/login.,+923004903596,http://verify-claim-127.xyz/login,Investment,CRITICAL,2026-09-27
+CASE_0128,Claim your Investment award immediately. Contact +923004091294 or visit http://verify-claim-128.xyz/login.,+923004091294,http://verify-claim-128.xyz/login,Investment,CRITICAL,2026-09-09
+CASE_0129,Claim your Banking award immediately. Contact +923006323988 or visit http://verify-claim-129.xyz/login.,+923006323988,http://verify-claim-129.xyz/login,Banking,CRITICAL,2026-09-29
+CASE_0130,Claim your Fake Job award immediately. Contact +923002020270 or visit http://verify-claim-130.xyz/login.,+923002020270,http://verify-claim-130.xyz/login,Fake Job,CRITICAL,2026-08-31
+CASE_0131,Claim your Prize award immediately. Contact +923005319211 or visit http://verify-claim-131.xyz/login.,+923005319211,http://verify-claim-131.xyz/login,Prize,CRITICAL,2026-09-30
+CASE_0132,Claim your Prize award immediately. Contact +923001750496 or visit http://verify-claim-132.xyz/login.,+923001750496,http://verify-claim-132.xyz/login,Prize,MEDIUM,2026-09-11
+CASE_0133,Claim your Prize award immediately. Contact +923002831459 or visit http://verify-claim-133.xyz/login.,+923002831459,http://verify-claim-133.xyz/login,Prize,CRITICAL,2026-09-28
+CASE_0134,Claim your Banking award immediately. Contact +923002898888 or visit http://verify-claim-134.xyz/login.,+923002898888,http://verify-claim-134.xyz/login,Banking,MEDIUM,2026-09-14
+CASE_0135,Claim your Fake Job award immediately. Contact +923004423255 or visit http://verify-claim-135.xyz/login.,+923004423255,http://verify-claim-135.xyz/login,Fake Job,CRITICAL,2026-09-20
+CASE_0136,Claim your Prize award immediately. Contact +923007978813 or visit http://verify-claim-136.xyz/login.,+923007978813,http://verify-claim-136.xyz/login,Prize,CRITICAL,2026-09-28
+CASE_0137,Claim your Banking award immediately. Contact +923005749368 or visit http://verify-claim-137.xyz/login.,+923005749368,http://verify-claim-137.xyz/login,Banking,MEDIUM,2026-09-26
+CASE_0138,Claim your Prize award immediately. Contact +923007044611 or visit http://verify-claim-138.xyz/login.,+923007044611,http://verify-claim-138.xyz/login,Prize,HIGH,2026-09-20
+CASE_0139,Claim your Prize award immediately. Contact +923008896784 or visit http://verify-claim-139.xyz/login.,+923008896784,http://verify-claim-139.xyz/login,Prize,HIGH,2026-08-31
+CASE_0140,Claim your Payment award immediately. Contact +923001522734 or visit http://verify-claim-140.xyz/login.,+923001522734,http://verify-claim-140.xyz/login,Payment,HIGH,2026-09-25
+CASE_0141,Claim your Investment award immediately. Contact +923005880032 or visit http://verify-claim-141.xyz/login.,+923005880032,http://verify-claim-141.xyz/login,Investment,MEDIUM,2026-09-01
+CASE_0142,Claim your Payment award immediately. Contact +923001428411 or visit http://verify-claim-142.xyz/login.,+923001428411,http://verify-claim-142.xyz/login,Payment,CRITICAL,2026-09-27
+CASE_0143,Claim your Fake Job award immediately. Contact +923006253043 or visit http://verify-claim-143.xyz/login.,+923006253043,http://verify-claim-143.xyz/login,Fake Job,CRITICAL,2026-09-14
+CASE_0144,Claim your Payment award immediately. Contact +923006772247 or visit http://verify-claim-144.xyz/login.,+923006772247,http://verify-claim-144.xyz/login,Payment,MEDIUM,2026-08-31
+CASE_0145,Claim your Banking award immediately. Contact +923001546929 or visit http://verify-claim-145.xyz/login.,+923001546929,http://verify-claim-145.xyz/login,Banking,CRITICAL,2026-09-09
+CASE_0146,Claim your Fake Job award immediately. Contact +923007393623 or visit http://verify-claim-146.xyz/login.,+923007393623,http://verify-claim-146.xyz/login,Fake Job,CRITICAL,2026-09-06
+CASE_0147,Claim your Investment award immediately. Contact +923002297070 or visit http://verify-claim-147.xyz/login.,+923002297070,http://verify-claim-147.xyz/login,Investment,MEDIUM,2026-08-31
+CASE_0148,Claim your Payment award immediately. Contact +923009447259 or visit http://verify-claim-148.xyz/login.,+923009447259,http://verify-claim-148.xyz/login,Payment,CRITICAL,2026-09-12
+CASE_0149,Claim your Payment award immediately. Contact +923008014220 or visit http://verify-claim-149.xyz/login.,+923008014220,http://verify-claim-149.xyz/login,Payment,CRITICAL,2026-09-13
+CASE_0150,Claim your Investment award immediately. Contact +923009854283 or visit http://verify-claim-150.xyz/login.,+923009854283,http://verify-claim-150.xyz/login,Investment,MEDIUM,2026-09-05
+CASE_0151,Claim your Payment award immediately. Contact +923008924368 or visit http://verify-claim-151.xyz/login.,+923008924368,http://verify-claim-151.xyz/login,Payment,CRITICAL,2026-09-09
+CASE_0152,Claim your Payment award immediately. Contact +923008399044 or visit http://verify-claim-152.xyz/login.,+923008399044,http://verify-claim-152.xyz/login,Payment,HIGH,2026-09-20
+CASE_0153,Claim your Fake Job award immediately. Contact +923005916819 or visit http://verify-claim-153.xyz/login.,+923005916819,http://verify-claim-153.xyz/login,Fake Job,MEDIUM,2026-09-01
+CASE_0154,Claim your Prize award immediately. Contact +923005078093 or visit http://verify-claim-154.xyz/login.,+923005078093,http://verify-claim-154.xyz/login,Prize,HIGH,2026-09-05
+CASE_0155,Claim your Fake Job award immediately. Contact +923008647410 or visit http://verify-claim-155.xyz/login.,+923008647410,http://verify-claim-155.xyz/login,Fake Job,CRITICAL,2026-09-20
+CASE_0156,Claim your Investment award immediately. Contact +923005044088 or visit http://verify-claim-156.xyz/login.,+923005044088,http://verify-claim-156.xyz/login,Investment,CRITICAL,2026-09-16
+CASE_0157,Claim your Banking award immediately. Contact +923007071358 or visit http://verify-claim-157.xyz/login.,+923007071358,http://verify-claim-157.xyz/login,Banking,HIGH,2026-09-28
+CASE_0158,Claim your Payment award immediately. Contact +923009483289 or visit http://verify-claim-158.xyz/login.,+923009483289,http://verify-claim-158.xyz/login,Payment,HIGH,2026-09-28
+CASE_0159,Claim your Banking award immediately. Contact +923004864628 or visit http://verify-claim-159.xyz/login.,+923004864628,http://verify-claim-159.xyz/login,Banking,HIGH,2026-09-16
+CASE_0160,Claim your Fake Job award immediately. Contact +923003101870 or visit http://verify-claim-160.xyz/login.,+923003101870,http://verify-claim-160.xyz/login,Fake Job,CRITICAL,2026-09-01
+CASE_0161,Claim your Fake Job award immediately. Contact +923007838685 or visit http://verify-claim-161.xyz/login.,+923007838685,http://verify-claim-161.xyz/login,Fake Job,CRITICAL,2026-09-09
+CASE_0162,Claim your Fake Job award immediately. Contact +923005366756 or visit http://verify-claim-162.xyz/login.,+923005366756,http://verify-claim-162.xyz/login,Fake Job,HIGH,2026-09-05
+CASE_0163,Claim your Prize award immediately. Contact +923006265434 or visit http://verify-claim-163.xyz/login.,+923006265434,http://verify-claim-163.xyz/login,Prize,MEDIUM,2026-09-27
+CASE_0164,Claim your Banking award immediately. Contact +923008063586 or visit http://verify-claim-164.xyz/login.,+923008063586,http://verify-claim-164.xyz/login,Banking,MEDIUM,2026-09-14
+CASE_0165,Claim your Payment award immediately. Contact +923009291304 or visit http://verify-claim-165.xyz/login.,+923009291304,http://verify-claim-165.xyz/login,Payment,MEDIUM,2026-09-10
+CASE_0166,Claim your Fake Job award immediately. Contact +923008618016 or visit http://verify-claim-166.xyz/login.,+923008618016,http://verify-claim-166.xyz/login,Fake Job,MEDIUM,2026-09-30
+CASE_0167,Claim your Investment award immediately. Contact +923008023372 or visit http://verify-claim-167.xyz/login.,+923008023372,http://verify-claim-167.xyz/login,Investment,CRITICAL,2026-09-22
+CASE_0168,Claim your Banking award immediately. Contact +923002694421 or visit http://verify-claim-168.xyz/login.,+923002694421,http://verify-claim-168.xyz/login,Banking,MEDIUM,2026-09-26
+CASE_0169,Claim your Banking award immediately. Contact +923001401503 or visit http://verify-claim-169.xyz/login.,+923001401503,http://verify-claim-169.xyz/login,Banking,MEDIUM,2026-09-08
+CASE_0170,Claim your Investment award immediately. Contact +923003220930 or visit http://verify-claim-170.xyz/login.,+923003220930,http://verify-claim-170.xyz/login,Investment,CRITICAL,2026-09-14
+CASE_0171,Claim your Banking award immediately. Contact +923008086002 or visit http://verify-claim-171.xyz/login.,+923008086002,http://verify-claim-171.xyz/login,Banking,MEDIUM,2026-09-19
+CASE_0172,Claim your Banking award immediately. Contact +923005050605 or visit http://verify-claim-172.xyz/login.,+923005050605,http://verify-claim-172.xyz/login,Banking,HIGH,2026-09-08
+CASE_0173,Claim your Investment award immediately. Contact +923006650705 or visit http://verify-claim-173.xyz/login.,+923006650705,http://verify-claim-173.xyz/login,Investment,HIGH,2026-09-02
+CASE_0174,Claim your Payment award immediately. Contact +923002808110 or visit http://verify-claim-174.xyz/login.,+923002808110,http://verify-claim-174.xyz/login,Payment,MEDIUM,2026-09-07
+CASE_0175,Claim your Investment award immediately. Contact +923006955200 or visit http://verify-claim-175.xyz/login.,+923006955200,http://verify-claim-175.xyz/login,Investment,HIGH,2026-08-31
+CASE_0176,Claim your Banking award immediately. Contact +923008545615 or visit http://verify-claim-176.xyz/login.,+923008545615,http://verify-claim-176.xyz/login,Banking,HIGH,2026-09-07
+CASE_0177,Claim your Prize award immediately. Contact +923009004511 or visit http://verify-claim-177.xyz/login.,+923009004511,http://verify-claim-177.xyz/login,Prize,MEDIUM,2026-09-08
+CASE_0178,Claim your Fake Job award immediately. Contact +923009545877 or visit http://verify-claim-178.xyz/login.,+923009545877,http://verify-claim-178.xyz/login,Fake Job,MEDIUM,2026-09-28
+CASE_0179,Claim your Investment award immediately. Contact +923007205454 or visit http://verify-claim-179.xyz/login.,+923007205454,http://verify-claim-179.xyz/login,Investment,CRITICAL,2026-09-09
+CASE_0180,Claim your Banking award immediately. Contact +923007364849 or visit http://verify-claim-180.xyz/login.,+923007364849,http://verify-claim-180.xyz/login,Banking,HIGH,2026-09-20
+CASE_0181,Claim your Fake Job award immediately. Contact +923009534019 or visit http://verify-claim-181.xyz/login.,+923009534019,http://verify-claim-181.xyz/login,Fake Job,CRITICAL,2026-09-07
+CASE_0182,Claim your Prize award immediately. Contact +923002625688 or visit http://verify-claim-182.xyz/login.,+923002625688,http://verify-claim-182.xyz/login,Prize,HIGH,2026-09-23
+CASE_0183,Claim your Banking award immediately. Contact +923006722997 or visit http://verify-claim-183.xyz/login.,+923006722997,http://verify-claim-183.xyz/login,Banking,CRITICAL,2026-09-29
+CASE_0184,Claim your Payment award immediately. Contact +923009811287 or visit http://verify-claim-184.xyz/login.,+923009811287,http://verify-claim-184.xyz/login,Payment,CRITICAL,2026-09-12
+CASE_0185,Claim your Banking award immediately. Contact +923005785821 or visit http://verify-claim-185.xyz/login.,+923005785821,http://verify-claim-185.xyz/login,Banking,HIGH,2026-09-20
+CASE_0186,Claim your Prize award immediately. Contact +923003993320 or visit http://verify-claim-186.xyz/login.,+923003993320,http://verify-claim-186.xyz/login,Prize,MEDIUM,2026-08-31
+CASE_0187,Claim your Investment award immediately. Contact +923004534635 or visit http://verify-claim-187.xyz/login.,+923004534635,http://verify-claim-187.xyz/login,Investment,CRITICAL,2026-09-17
+CASE_0188,Claim your Prize award immediately. Contact +923006274209 or visit http://verify-claim-188.xyz/login.,+923006274209,http://verify-claim-188.xyz/login,Prize,HIGH,2026-09-27
+CASE_0189,Claim your Prize award immediately. Contact +923003778181 or visit http://verify-claim-189.xyz/login.,+923003778181,http://verify-claim-189.xyz/login,Prize,HIGH,2026-09-27
+CASE_0190,Claim your Prize award immediately. Contact +923009164392 or visit http://verify-claim-190.xyz/login.,+923009164392,http://verify-claim-190.xyz/login,Prize,MEDIUM,2026-09-16
+CASE_0191,Claim your Fake Job award immediately. Contact +923005839871 or visit http://verify-claim-191.xyz/login.,+923005839871,http://verify-claim-191.xyz/login,Fake Job,HIGH,2026-08-31
+CASE_0192,Claim your Payment award immediately. Contact +923002780388 or visit http://verify-claim-192.xyz/login.,+923002780388,http://verify-claim-192.xyz/login,Payment,MEDIUM,2026-09-01
+CASE_0193,Claim your Prize award immediately. Contact +923003365639 or visit http://verify-claim-193.xyz/login.,+923003365639,http://verify-claim-193.xyz/login,Prize,MEDIUM,2026-09-27
+CASE_0194,Claim your Payment award immediately. Contact +923009534539 or visit http://verify-claim-194.xyz/login.,+923009534539,http://verify-claim-194.xyz/login,Payment,MEDIUM,2026-09-06
+CASE_0195,Claim your Investment award immediately. Contact +923001666811 or visit http://verify-claim-195.xyz/login.,+923001666811,http://verify-claim-195.xyz/login,Investment,CRITICAL,2026-08-31
+CASE_0196,Claim your Payment award immediately. Contact +923004273782 or visit http://verify-claim-196.xyz/login.,+923004273782,http://verify-claim-196.xyz/login,Payment,HIGH,2026-09-30
+CASE_0197,Claim your Investment award immediately. Contact +923007199861 or visit http://verify-claim-197.xyz/login.,+923007199861,http://verify-claim-197.xyz/login,Investment,HIGH,2026-09-24
+CASE_0198,Claim your Payment award immediately. Contact +923008155525 or visit http://verify-claim-198.xyz/login.,+923008155525,http://verify-claim-198.xyz/login,Payment,HIGH,2026-09-07
+CASE_0199,Claim your Payment award immediately. Contact +923003116927 or visit http://verify-claim-199.xyz/login.,+923003116927,http://verify-claim-199.xyz/login,Payment,HIGH,2026-09-04
+CASE_0200,Claim your Prize award immediately. Contact +923002839032 or visit http://verify-claim-200.xyz/login.,+923002839032,http://verify-claim-200.xyz/login,Prize,CRITICAL,2026-09-08

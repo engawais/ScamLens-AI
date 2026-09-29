@@ -1,0 +1,301 @@
+report_id,phone_number,category,report_count,source_type,status,last_reported
+REP_0001,+92312085660,Prize,13,Community,confirmed,2026-07-06
+REP_0002,+92347782844,Investment,15,User Report,confirmed,2026-06-14
+REP_0003,+92335672762,Impersonation,38,Threat Intel,confirmed,2026-05-02
+REP_0004,+92336974321,Banking,43,Threat Intel,confirmed,2026-04-29
+REP_0005,+92339580111,Prize,10,Community,reported,2026-06-06
+REP_0006,+92305205877,Banking,32,User Report,confirmed,2026-08-02
+REP_0007,+92311498677,Investment,4,Threat Intel,reported,2026-09-13
+REP_0008,+92304004727,Banking,39,Threat Intel,confirmed,2026-04-10
+REP_0009,+92316079345,Payment,40,Community,confirmed,2026-09-06
+REP_0010,+92349257536,Banking,13,User Report,confirmed,2026-07-17
+REP_0011,+92339225036,Payment,17,Threat Intel,confirmed,2026-05-15
+REP_0012,+92341296459,Investment,28,Threat Intel,confirmed,2026-08-31
+REP_0013,+92336277427,Banking,29,Community,confirmed,2026-06-05
+REP_0014,+92303967372,Payment,43,User Report,confirmed,2026-07-15
+REP_0015,+92319245659,Banking,9,User Report,reported,2026-07-13
+REP_0016,+92339178136,Investment,37,Threat Intel,confirmed,2026-04-11
+REP_0017,+92348882244,Banking,36,User Report,confirmed,2026-08-21
+REP_0018,+92307566347,Prize,32,Threat Intel,confirmed,2026-05-02
+REP_0019,+92346918393,Prize,21,Community,confirmed,2026-09-15
+REP_0020,+92341756962,Fake Job,24,User Report,confirmed,2026-07-03
+REP_0021,+92341451304,Impersonation,22,Community,confirmed,2026-06-25
+REP_0022,+92336790539,Prize,27,Community,confirmed,2026-07-03
+REP_0023,+92315154272,Fake Job,42,User Report,confirmed,2026-07-13
+REP_0024,+92302098911,Prize,8,Community,reported,2026-07-06
+REP_0025,+92306471332,Investment,30,Threat Intel,confirmed,2026-04-15
+REP_0026,+92349636236,Banking,18,User Report,confirmed,2026-09-25
+REP_0027,+92331373065,Prize,25,Threat Intel,confirmed,2026-05-07
+REP_0028,+92322639564,Banking,7,User Report,reported,2026-04-07
+REP_0029,+92316636598,Banking,33,Threat Intel,confirmed,2026-04-13
+REP_0030,+92316025126,Prize,28,Threat Intel,confirmed,2026-08-10
+REP_0031,+92309989803,Fake Job,19,Community,confirmed,2026-07-25
+REP_0032,+92327744899,Fake Job,40,User Report,confirmed,2026-09-07
+REP_0033,+92342589366,Payment,22,Community,confirmed,2026-07-23
+REP_0034,+92349909769,Banking,28,Threat Intel,confirmed,2026-08-08
+REP_0035,+92306064152,Payment,20,User Report,confirmed,2026-06-12
+REP_0036,+92346257190,Fake Job,27,Threat Intel,confirmed,2026-06-20
+REP_0037,+92349646460,Banking,43,Community,confirmed,2026-05-13
+REP_0038,+92309660803,Fake Job,37,Community,confirmed,2026-05-26
+REP_0039,+92335495219,Impersonation,35,Threat Intel,confirmed,2026-04-26
+REP_0040,+92342004647,Payment,13,Threat Intel,confirmed,2026-06-29
+REP_0041,+92315032805,Fake Job,44,Threat Intel,confirmed,2026-07-16
+REP_0042,+92336346113,Investment,41,Threat Intel,confirmed,2026-08-09
+REP_0043,+92325815809,Impersonation,11,User Report,confirmed,2026-07-27
+REP_0044,+92344961601,Banking,16,Community,confirmed,2026-09-01
+REP_0045,+92311464798,Fake Job,20,Threat Intel,confirmed,2026-06-04
+REP_0046,+92348317096,Banking,42,Community,confirmed,2026-09-21
+REP_0047,+92315575347,Fake Job,2,Threat Intel,reported,2026-07-26
+REP_0048,+92343952542,Impersonation,3,Community,reported,2026-05-29
+REP_0049,+92302408104,Prize,39,Community,confirmed,2026-07-16
+REP_0050,+92337097414,Impersonation,43,Threat Intel,confirmed,2026-09-07
+REP_0051,+92314960113,Investment,37,Community,confirmed,2026-05-25
+REP_0052,+92349812402,Prize,32,Community,confirmed,2026-09-07
+REP_0053,+92343051464,Prize,22,User Report,confirmed,2026-05-04
+REP_0054,+92334958384,Banking,14,Community,confirmed,2026-08-25
+REP_0055,+92314592146,Prize,29,Threat Intel,confirmed,2026-06-18
+REP_0056,+92341938272,Banking,35,User Report,confirmed,2026-06-27
+REP_0057,+92306309820,Payment,28,User Report,confirmed,2026-06-01
+REP_0058,+92315659599,Fake Job,24,User Report,confirmed,2026-06-01
+REP_0059,+92326170258,Investment,42,Community,confirmed,2026-04-28
+REP_0060,+92305021093,Prize,36,Threat Intel,confirmed,2026-06-24
+REP_0061,+92323047722,Payment,16,Threat Intel,confirmed,2026-06-09
+REP_0062,+92307593035,Prize,20,Community,confirmed,2026-09-07
+REP_0063,+92324529699,Fake Job,29,Threat Intel,confirmed,2026-04-22
+REP_0064,+92331568440,Prize,6,Threat Intel,reported,2026-05-28
+REP_0065,+92336582152,Impersonation,28,Community,confirmed,2026-09-05
+REP_0066,+92329494883,Investment,23,User Report,confirmed,2026-06-15
+REP_0067,+92346482263,Banking,45,Community,confirmed,2026-09-23
+REP_0068,+92318439100,Impersonation,9,Threat Intel,reported,2026-09-30
+REP_0069,+92316126237,Prize,37,Community,confirmed,2026-09-09
+REP_0070,+92315187652,Payment,42,User Report,confirmed,2026-08-28
+REP_0071,+92336358628,Banking,31,Threat Intel,confirmed,2026-08-27
+REP_0072,+92316495887,Prize,13,Threat Intel,confirmed,2026-09-09
+REP_0073,+92324051595,Banking,25,Community,confirmed,2026-05-07
+REP_0074,+92301385374,Payment,42,User Report,confirmed,2026-04-27
+REP_0075,+92312492779,Banking,13,User Report,confirmed,2026-07-25
+REP_0076,+92311835219,Banking,40,User Report,confirmed,2026-06-13
+REP_0077,+92323504019,Investment,24,User Report,confirmed,2026-08-18
+REP_0078,+92301236808,Impersonation,34,Threat Intel,confirmed,2026-06-11
+REP_0079,+92332988307,Fake Job,14,Threat Intel,confirmed,2026-08-13
+REP_0080,+92329290765,Banking,9,Community,reported,2026-06-12
+REP_0081,+92344616607,Prize,44,Threat Intel,confirmed,2026-08-13
+REP_0082,+92317853897,Fake Job,2,Threat Intel,reported,2026-07-18
+REP_0083,+92318566133,Fake Job,24,User Report,confirmed,2026-05-04
+REP_0084,+92332438456,Investment,31,Threat Intel,confirmed,2026-08-27
+REP_0085,+92334560421,Impersonation,25,User Report,confirmed,2026-06-14
+REP_0086,+92345298752,Investment,7,Community,reported,2026-05-11
+REP_0087,+92306584506,Fake Job,31,User Report,confirmed,2026-07-02
+REP_0088,+92341763562,Investment,17,User Report,confirmed,2026-05-24
+REP_0089,+92336075231,Banking,43,Community,confirmed,2026-06-28
+REP_0090,+92341689962,Payment,12,Community,confirmed,2026-07-26
+REP_0091,+92349268480,Prize,30,Community,confirmed,2026-08-28
+REP_0092,+92329899034,Banking,10,Community,reported,2026-07-26
+REP_0093,+92321740918,Fake Job,32,User Report,confirmed,2026-07-21
+REP_0094,+92328215646,Prize,17,Threat Intel,confirmed,2026-04-27
+REP_0095,+92346251441,Banking,11,User Report,confirmed,2026-07-12
+REP_0096,+92333537801,Payment,43,Threat Intel,confirmed,2026-04-21
+REP_0097,+92304169550,Fake Job,4,Community,reported,2026-08-03
+REP_0098,+92308889444,Prize,11,Threat Intel,confirmed,2026-04-03
+REP_0099,+92332946560,Banking,3,Threat Intel,reported,2026-06-09
+REP_0100,+92349140297,Banking,32,User Report,confirmed,2026-09-02
+REP_0101,+92313074573,Prize,6,Threat Intel,reported,2026-08-09
+REP_0102,+92313823521,Impersonation,33,User Report,confirmed,2026-07-23
+REP_0103,+92344563416,Payment,1,User Report,reported,2026-05-19
+REP_0104,+92317986351,Investment,16,User Report,confirmed,2026-05-26
+REP_0105,+92306513962,Investment,19,User Report,confirmed,2026-04-09
+REP_0106,+92307613071,Prize,38,Threat Intel,confirmed,2026-09-03
+REP_0107,+92311484433,Investment,30,Threat Intel,confirmed,2026-04-15
+REP_0108,+92335518413,Payment,43,Threat Intel,confirmed,2026-09-29
+REP_0109,+92308601790,Prize,37,Community,confirmed,2026-08-28
+REP_0110,+92305747180,Prize,4,User Report,reported,2026-09-12
+REP_0111,+92347398678,Investment,26,Community,confirmed,2026-07-27
+REP_0112,+92317692721,Investment,2,Community,reported,2026-08-08
+REP_0113,+92337751088,Prize,42,Community,confirmed,2026-04-16
+REP_0114,+92306008781,Banking,28,User Report,confirmed,2026-07-13
+REP_0115,+92343202624,Prize,43,Threat Intel,confirmed,2026-09-06
+REP_0116,+92344353283,Banking,29,Threat Intel,confirmed,2026-06-23
+REP_0117,+92328097946,Investment,28,User Report,confirmed,2026-06-28
+REP_0118,+92318283088,Impersonation,28,Community,confirmed,2026-09-07
+REP_0119,+92346733527,Banking,44,User Report,confirmed,2026-08-04
+REP_0120,+92319310128,Payment,41,User Report,confirmed,2026-04-18
+REP_0121,+92305877187,Banking,28,Threat Intel,confirmed,2026-09-10
+REP_0122,+92323493203,Fake Job,44,Community,confirmed,2026-07-16
+REP_0123,+92348176148,Prize,37,User Report,confirmed,2026-09-18
+REP_0124,+92301756566,Payment,7,Threat Intel,reported,2026-05-23
+REP_0125,+92332585184,Banking,43,Threat Intel,confirmed,2026-05-08
+REP_0126,+92325275844,Payment,6,Community,reported,2026-05-25
+REP_0127,+92308765820,Fake Job,12,Community,confirmed,2026-06-22
+REP_0128,+92307983542,Impersonation,20,User Report,confirmed,2026-07-12
+REP_0129,+92338548873,Payment,17,Community,confirmed,2026-07-05
+REP_0130,+92314105251,Investment,39,User Report,confirmed,2026-07-26
+REP_0131,+92308277938,Payment,2,Threat Intel,reported,2026-09-29
+REP_0132,+92301223214,Fake Job,42,Threat Intel,confirmed,2026-05-31
+REP_0133,+92339165848,Prize,40,Threat Intel,confirmed,2026-04-26
+REP_0134,+92336077736,Investment,9,Community,reported,2026-08-27
+REP_0135,+92312877580,Investment,45,Community,confirmed,2026-08-13
+REP_0136,+92319071807,Impersonation,10,Community,reported,2026-04-17
+REP_0137,+92334203013,Investment,20,Community,confirmed,2026-06-04
+REP_0138,+92338077958,Investment,8,Community,reported,2026-08-19
+REP_0139,+92339137735,Banking,2,User Report,reported,2026-06-07
+REP_0140,+92314377898,Prize,37,Community,confirmed,2026-06-22
+REP_0141,+92321132108,Investment,41,Threat Intel,confirmed,2026-06-12
+REP_0142,+92335878387,Investment,32,Threat Intel,confirmed,2026-06-20
+REP_0143,+92349185628,Fake Job,4,Community,reported,2026-05-18
+REP_0144,+92336299086,Payment,5,User Report,reported,2026-07-24
+REP_0145,+92338941293,Investment,32,User Report,confirmed,2026-04-24
+REP_0146,+92328521651,Impersonation,28,Community,confirmed,2026-09-25
+REP_0147,+92324224602,Banking,23,Community,confirmed,2026-06-10
+REP_0148,+92344685993,Payment,44,User Report,confirmed,2026-07-06
+REP_0149,+92333200475,Prize,25,User Report,confirmed,2026-06-16
+REP_0150,+92328924295,Fake Job,40,Threat Intel,confirmed,2026-08-08
+REP_0151,+92309101545,Fake Job,12,Community,confirmed,2026-08-10
+REP_0152,+92349257506,Investment,27,Threat Intel,confirmed,2026-05-27
+REP_0153,+92314513701,Payment,4,Threat Intel,reported,2026-09-26
+REP_0154,+92326990202,Impersonation,11,User Report,confirmed,2026-08-17
+REP_0155,+92302068131,Prize,28,User Report,confirmed,2026-09-01
+REP_0156,+92313024809,Payment,15,Threat Intel,confirmed,2026-05-29
+REP_0157,+92326959954,Investment,36,Community,confirmed,2026-07-24
+REP_0158,+92342747213,Impersonation,4,Threat Intel,reported,2026-06-10
+REP_0159,+92302776570,Payment,40,User Report,confirmed,2026-09-04
+REP_0160,+92309511177,Investment,11,Community,confirmed,2026-04-22
+REP_0161,+92317067286,Fake Job,19,User Report,confirmed,2026-06-09
+REP_0162,+92332665880,Fake Job,42,Threat Intel,confirmed,2026-06-29
+REP_0163,+92313063320,Fake Job,29,Community,confirmed,2026-06-16
+REP_0164,+92318946752,Prize,19,Community,confirmed,2026-05-24
+REP_0165,+92305463001,Prize,27,User Report,confirmed,2026-06-30
+REP_0166,+92313543614,Payment,27,Community,confirmed,2026-08-03
+REP_0167,+92337935859,Banking,30,User Report,confirmed,2026-05-21
+REP_0168,+92321499339,Banking,10,User Report,reported,2026-09-28
+REP_0169,+92342167378,Investment,22,Threat Intel,confirmed,2026-07-12
+REP_0170,+92318282524,Investment,26,User Report,confirmed,2026-09-21
+REP_0171,+92311969887,Impersonation,43,Threat Intel,confirmed,2026-05-20
+REP_0172,+92337744488,Impersonation,45,Threat Intel,confirmed,2026-05-12
+REP_0173,+92326774002,Investment,18,User Report,confirmed,2026-05-18
+REP_0174,+92317776956,Banking,42,User Report,confirmed,2026-08-09
+REP_0175,+92348417942,Impersonation,23,Threat Intel,confirmed,2026-04-17
+REP_0176,+92316058857,Investment,3,Threat Intel,reported,2026-05-16
+REP_0177,+92333114023,Payment,35,Community,confirmed,2026-07-20
+REP_0178,+92309584425,Payment,20,Threat Intel,confirmed,2026-05-20
+REP_0179,+92311392951,Investment,35,Threat Intel,confirmed,2026-05-02
+REP_0180,+92316099302,Impersonation,28,Community,confirmed,2026-05-24
+REP_0181,+92307257547,Prize,41,Threat Intel,confirmed,2026-05-24
+REP_0182,+92301800824,Impersonation,8,Threat Intel,reported,2026-06-08
+REP_0183,+92341087466,Banking,22,User Report,confirmed,2026-08-01
+REP_0184,+92349947098,Payment,15,Threat Intel,confirmed,2026-07-03
+REP_0185,+92323348331,Impersonation,25,User Report,confirmed,2026-05-20
+REP_0186,+92312765414,Prize,34,Community,confirmed,2026-05-04
+REP_0187,+92328622050,Investment,10,Threat Intel,reported,2026-06-14
+REP_0188,+92302547674,Investment,28,Threat Intel,confirmed,2026-08-28
+REP_0189,+92318485391,Investment,24,User Report,confirmed,2026-04-10
+REP_0190,+92339706452,Banking,17,Threat Intel,confirmed,2026-05-04
+REP_0191,+92338383316,Impersonation,32,Community,confirmed,2026-06-16
+REP_0192,+92319485679,Fake Job,32,Community,confirmed,2026-06-05
+REP_0193,+92349877514,Investment,45,Threat Intel,confirmed,2026-08-07
+REP_0194,+92331547061,Impersonation,11,Threat Intel,confirmed,2026-05-10
+REP_0195,+92307855503,Investment,8,User Report,reported,2026-06-28
+REP_0196,+92321675822,Payment,10,Threat Intel,reported,2026-08-31
+REP_0197,+92327282392,Prize,19,Community,confirmed,2026-05-29
+REP_0198,+92313384710,Payment,27,Threat Intel,confirmed,2026-09-18
+REP_0199,+92324616856,Fake Job,32,Community,confirmed,2026-09-30
+REP_0200,+92346849358,Investment,3,Threat Intel,reported,2026-06-16
+REP_0201,+92346195935,Payment,29,Threat Intel,confirmed,2026-07-06
+REP_0202,+92333228175,Fake Job,33,Threat Intel,confirmed,2026-04-21
+REP_0203,+92338534223,Fake Job,21,User Report,confirmed,2026-09-08
+REP_0204,+92347872422,Banking,15,Threat Intel,confirmed,2026-06-21
+REP_0205,+92341768727,Impersonation,29,User Report,confirmed,2026-07-21
+REP_0206,+92303778554,Impersonation,2,User Report,reported,2026-05-07
+REP_0207,+92323076710,Impersonation,36,Community,confirmed,2026-09-09
+REP_0208,+92341887084,Payment,34,Threat Intel,confirmed,2026-08-13
+REP_0209,+92341313131,Investment,43,Community,confirmed,2026-05-17
+REP_0210,+92305613105,Fake Job,16,User Report,confirmed,2026-04-03
+REP_0211,+92332420156,Payment,39,Threat Intel,confirmed,2026-07-10
+REP_0212,+92341754700,Banking,2,Threat Intel,reported,2026-07-05
+REP_0213,+92317961478,Investment,34,Threat Intel,confirmed,2026-07-11
+REP_0214,+92322527147,Investment,7,Community,reported,2026-05-15
+REP_0215,+92323416493,Fake Job,17,Community,confirmed,2026-09-08
+REP_0216,+92327832964,Impersonation,11,User Report,confirmed,2026-09-15
+REP_0217,+92324044357,Investment,4,Threat Intel,reported,2026-07-16
+REP_0218,+92306369404,Fake Job,27,Threat Intel,confirmed,2026-07-10
+REP_0219,+92333029477,Investment,13,User Report,confirmed,2026-07-31
+REP_0220,+92344967662,Banking,33,Threat Intel,confirmed,2026-05-24
+REP_0221,+92305517895,Investment,21,User Report,confirmed,2026-06-04
+REP_0222,+92332098206,Banking,2,User Report,reported,2026-06-18
+REP_0223,+92311312439,Prize,36,User Report,confirmed,2026-05-03
+REP_0224,+92305132498,Payment,42,Threat Intel,confirmed,2026-08-29
+REP_0225,+92347824064,Banking,6,User Report,reported,2026-04-21
+REP_0226,+92313388522,Prize,35,Community,confirmed,2026-08-18
+REP_0227,+92348109386,Payment,29,Community,confirmed,2026-09-20
+REP_0228,+92335852800,Impersonation,11,Community,confirmed,2026-09-30
+REP_0229,+92335585262,Payment,17,Threat Intel,confirmed,2026-04-09
+REP_0230,+92324569422,Payment,33,Community,confirmed,2026-07-20
+REP_0231,+92319960531,Payment,5,Community,reported,2026-07-16
+REP_0232,+92333063211,Fake Job,36,Threat Intel,confirmed,2026-07-21
+REP_0233,+92319469478,Prize,44,User Report,confirmed,2026-07-05
+REP_0234,+92328595349,Prize,16,Threat Intel,confirmed,2026-04-14
+REP_0235,+92324533682,Banking,39,Community,confirmed,2026-07-08
+REP_0236,+92311034351,Payment,31,Community,confirmed,2026-09-29
+REP_0237,+92317931725,Payment,45,Threat Intel,confirmed,2026-04-03
+REP_0238,+92332361450,Impersonation,42,User Report,confirmed,2026-09-11
+REP_0239,+92308468826,Impersonation,8,Threat Intel,reported,2026-07-02
+REP_0240,+92347005668,Banking,12,Community,confirmed,2026-04-05
+REP_0241,+92308762692,Prize,13,Community,confirmed,2026-06-09
+REP_0242,+92311331881,Prize,44,Community,confirmed,2026-07-01
+REP_0243,+92306086491,Impersonation,15,Threat Intel,confirmed,2026-08-02
+REP_0244,+92321617335,Prize,32,User Report,confirmed,2026-04-03
+REP_0245,+92344507886,Investment,13,Threat Intel,confirmed,2026-04-20
+REP_0246,+92305653119,Payment,33,Community,confirmed,2026-05-27
+REP_0247,+92344250925,Impersonation,37,User Report,confirmed,2026-04-11
+REP_0248,+92343944885,Investment,38,User Report,confirmed,2026-08-29
+REP_0249,+92303137935,Prize,37,User Report,confirmed,2026-08-03
+REP_0250,+92324218734,Impersonation,2,User Report,reported,2026-04-06
+REP_0251,+92345243311,Impersonation,36,Community,confirmed,2026-06-06
+REP_0252,+92331870113,Prize,28,Threat Intel,confirmed,2026-06-18
+REP_0253,+92309695551,Banking,32,User Report,confirmed,2026-06-30
+REP_0254,+92304767293,Investment,18,User Report,confirmed,2026-06-15
+REP_0255,+92336305659,Investment,26,Threat Intel,confirmed,2026-08-12
+REP_0256,+92301425670,Impersonation,15,Threat Intel,confirmed,2026-04-07
+REP_0257,+92305194038,Fake Job,11,Threat Intel,confirmed,2026-07-08
+REP_0258,+92302622794,Investment,31,Community,confirmed,2026-06-12
+REP_0259,+92346608665,Prize,16,Threat Intel,confirmed,2026-09-03
+REP_0260,+92316717708,Investment,22,Community,confirmed,2026-05-20
+REP_0261,+92308357303,Investment,41,User Report,confirmed,2026-06-08
+REP_0262,+92302435034,Investment,3,Threat Intel,reported,2026-06-26
+REP_0263,+92303139695,Investment,29,Threat Intel,confirmed,2026-09-16
+REP_0264,+92348245056,Investment,7,Community,reported,2026-04-10
+REP_0265,+92341875823,Prize,25,Community,confirmed,2026-06-20
+REP_0266,+92347897247,Fake Job,39,User Report,confirmed,2026-04-15
+REP_0267,+92308606978,Banking,30,User Report,confirmed,2026-06-13
+REP_0268,+92342699161,Prize,42,Community,confirmed,2026-04-11
+REP_0269,+92339677392,Prize,38,Community,confirmed,2026-08-12
+REP_0270,+92301206168,Payment,5,Community,reported,2026-05-02
+REP_0271,+92343113620,Impersonation,33,Threat Intel,confirmed,2026-07-27
+REP_0272,+92339076540,Impersonation,40,Community,confirmed,2026-06-09
+REP_0273,+92313309764,Investment,4,Threat Intel,reported,2026-08-29
+REP_0274,+92348312318,Payment,42,Threat Intel,confirmed,2026-07-01
+REP_0275,+92343443176,Fake Job,31,User Report,confirmed,2026-07-13
+REP_0276,+92325883242,Prize,1,User Report,reported,2026-05-21
+REP_0277,+92311961630,Fake Job,33,Community,confirmed,2026-05-10
+REP_0278,+92336768277,Fake Job,13,Community,confirmed,2026-04-20
+REP_0279,+92306730290,Fake Job,43,User Report,confirmed,2026-06-01
+REP_0280,+92336555698,Payment,37,User Report,confirmed,2026-07-07
+REP_0281,+92328024541,Prize,11,Threat Intel,confirmed,2026-09-04
+REP_0282,+92309320336,Fake Job,1,Community,reported,2026-04-20
+REP_0283,+92318827187,Payment,14,Threat Intel,confirmed,2026-07-31
+REP_0284,+92327306753,Fake Job,26,Community,confirmed,2026-08-14
+REP_0285,+92321165961,Investment,23,User Report,confirmed,2026-09-23
+REP_0286,+92303389108,Prize,29,User Report,confirmed,2026-08-12
+REP_0287,+92347038275,Investment,2,Community,reported,2026-08-11
+REP_0288,+92323921695,Fake Job,17,Threat Intel,confirmed,2026-08-17
+REP_0289,+92345126595,Fake Job,13,Community,confirmed,2026-09-25
+REP_0290,+92322697690,Investment,44,Threat Intel,confirmed,2026-08-26
+REP_0291,+92306677129,Fake Job,20,Community,confirmed,2026-06-06
+REP_0292,+92327247000,Impersonation,11,User Report,confirmed,2026-05-19
+REP_0293,+92332096852,Investment,10,Community,reported,2026-08-28
+REP_0294,+92319934785,Banking,45,Threat Intel,confirmed,2026-06-27
+REP_0295,+92348206488,Impersonation,16,User Report,confirmed,2026-09-19
+REP_0296,+92344172607,Payment,19,Threat Intel,confirmed,2026-08-23
+REP_0297,+92311893537,Impersonation,18,User Report,confirmed,2026-08-29
+REP_0298,+92349203901,Fake Job,6,User Report,reported,2026-06-02
+REP_0299,+92342088389,Fake Job,33,User Report,confirmed,2026-06-23
+REP_0300,+92347279143,Banking,34,Community,confirmed,2026-06-04
